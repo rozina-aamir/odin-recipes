@@ -2,6 +2,8 @@
 
 The aim of this project is to create a simple recipe website in HTML by using heading, paragraph, unordered and ordered list, link, and image elements.
 
+You can view the [live site here](https://rozina-aamir.github.io/odin-recipes/index.html).
+
 ## Image Attributions
 - [lasagna.jpg](https://unsplash.com/photos/a-white-plate-topped-with-lasagna-covered-in-sauce-flEUTTwGlJQ) - Emanuel Ekstrom
 
