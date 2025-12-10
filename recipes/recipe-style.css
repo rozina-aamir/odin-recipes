@@ -19,3 +19,7 @@ a {
 img {
     padding: 10px;
 }
+
+ol {
+    width: 400;
+}
